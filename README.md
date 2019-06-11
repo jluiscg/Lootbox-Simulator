@@ -9,5 +9,6 @@ Name - (default chance)
 
 Probabilty for each one can be changed within the app
 
-Customize the background, lootbox model, lootbox texture and legendary prize song to your preference.
+#### Customize
+Change the background, lootbox model, lootbox texture and legendary prize song to your preference.
 
