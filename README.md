@@ -1,5 +1,5 @@
 # Lootbox-Simulator
-Lootbox simulator for streamers, connect more with your community giving them the chance to win prizes like popular games do with lootboxes.
+Lootbox simulator for streamers, connect more with your community giving them the chance to win prizes like popular games do with lootboxes. Replace that old and boring roulette with something much better.
 #### 4 different rarities for the prizes:
 Name - (default chance)
 * Common - (65%)
